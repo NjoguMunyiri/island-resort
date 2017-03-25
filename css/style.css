@@ -1,0 +1,36 @@
+header{
+  border-style:groove;
+  align-content: center;
+
+}
+
+h1{
+  text-align: center;
+  padding:inherit;
+  font-size: 80px;
+}
+a:link, a:visited{
+  font-weight: bold;
+  width: 220px;
+  margin: 10px;
+  text-align: center;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li{
+  float: right;
+}
+
+uno{
+  align-content: left;
+
+}
+.footer{
+  background-color: #778899;
+}
